@@ -22,7 +22,7 @@ non-axisymmetric substructure.
 ## Repository contents
 `MSc_project_code/` contains one notebook per source. Each notebook
 applies the same pipeline to a single disc, named by source number
-(e.g. `026_finalv2.ipynb`). '003_test_(use_this_one) serves as the 
+(e.g. `026_finalv2.ipynb`). '003_test_(use_this_one)' serves as the 
 reference case: it documents the parameter and
 shift tests that informed the final pipeline settings. 
 
